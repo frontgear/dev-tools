@@ -1,0 +1,8 @@
+# node and npm files
+node_modules/
+npm-debug.log*
+.node_repl_history
+.npm
+
+# operating system files
+.DS_Store
